@@ -1,0 +1,3 @@
+[submodule "demo-user-service"]
+	path = demo-user-service
+	url = https://github.com/katunilya/demo-user-service
